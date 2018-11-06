@@ -1,0 +1,7 @@
+C:\Users\martin_kiperszmid\source\repos\Torneo\Torneo\bin\Debug\Torneo.exe.config
+C:\Users\martin_kiperszmid\source\repos\Torneo\Torneo\bin\Debug\Torneo.exe
+C:\Users\martin_kiperszmid\source\repos\Torneo\Torneo\bin\Debug\Torneo.pdb
+C:\Users\martin_kiperszmid\source\repos\Torneo\Torneo\obj\Debug\Torneo.csprojAssemblyReference.cache
+C:\Users\martin_kiperszmid\source\repos\Torneo\Torneo\obj\Debug\Torneo.csproj.CoreCompileInputs.cache
+C:\Users\martin_kiperszmid\source\repos\Torneo\Torneo\obj\Debug\Torneo.exe
+C:\Users\martin_kiperszmid\source\repos\Torneo\Torneo\obj\Debug\Torneo.pdb
